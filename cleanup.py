@@ -10,4 +10,3 @@ def findReplace(directory, find, replace, filePattern):
                 f.write(s)
                 
 findReplace(".", "http://", "https://", "*.html")
-findReplace(".", "/oof/", "./", "*.html")
