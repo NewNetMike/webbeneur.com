@@ -10,3 +10,4 @@ def findReplace(directory, find, replace, filePattern):
                 f.write(s)
                 
 findReplace(".", "http://", "https://", "*.html")
+findReplace(".", 'href=""', 'href="https://webbeneur.com"', "*.html")
