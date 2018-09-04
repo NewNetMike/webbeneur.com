@@ -2983,8 +2983,8 @@ article header {
     text-transform: uppercase;
 }
 .widget .wp_review_tab_widget_content .inside, .widget .wpt_widget_content .inside {
-    background: #f5f5f5;
-    padding-top: 15px;
+    background: none;
+    padding-top: 0;
 }
 .widget .wp_review_tab_widget_content, .widget .wpt_widget_content {
     border: 0;
