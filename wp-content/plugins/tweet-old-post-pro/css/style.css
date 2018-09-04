@@ -1,0 +1,122 @@
+/*
+#     Version: 1.8.7
+*/
+
+.upgrade {
+	display:none!important;
+}
+
+.cwp_top_wrapper .announcement {
+	display: none!important;
+}
+.rop-network-countdown .rop-network-name{
+	font-weight: bold;
+
+}
+.rop-network-countdown{
+	background: #B9F3CB;
+	box-shadow: inset 0px 0px 6px rgba(8, 61, 8, 0.1);
+	border-top: 1px solid rgba(97, 209, 101, 0.4);
+	color: #218618;
+	text-shadow: 0px 1px 0px #FFF;
+	border-bottom: 1px solid #FFF;
+	padding:4px;
+}
+.rop-category-header{
+	text-align: center;
+	background: #444;
+	padding: 5px;
+	color: #FFF;
+	font-weight: bold;
+	font-size: 15px;
+	cursor: pointer;
+}
+.clearfix{
+	clear:both;
+
+}
+.cwp_quick_edit_actions .button {
+	padding-left: 30px;
+    border: none;
+    background: url(../img/rop-cancel-icon.png) left center no-repeat #8e8e8e;
+    text-decoration: none;
+    height: 25px;
+    border-radius: 3px;
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 0px 1px 0px #8e8e8e;
+    line-height: 26px;
+    padding-right: 10px;
+    display: inline-block;
+    margin-right: 5px;
+    box-shadow: none;
+    font-size: 10px;
+}
+
+.cwp_quick_edit_actions .button:hover {
+	background: url(../img/rop-cancel-icon.png) left center no-repeat #8e8e8e;
+	opacity: 0.9;
+	color: #FFF;
+}
+
+.cwp_quick_edit_actions .button.button-primary {
+	padding-left: 30px;
+    border: none;
+    background: url(../img/rop-save-icon.png) left center no-repeat #5EB36D;
+    text-decoration: none;
+    height: 25px;
+    border-radius: 3px;
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 0px 1px 0px #5EB36D;
+    line-height: 26px;
+    padding-right: 10px;
+    display: inline-block;
+    margin-right: 5px;
+    box-shadow: none;
+    font-size: 10px;
+}
+
+.cwp_quick_edit_actions .button.button-primary:hover {
+	opacity: 0.9;
+}
+
+.toplevel_page_TweetOldPost #TB_window {
+	border-radius: 3px;
+    background: #F8F8F8;
+}
+
+.toplevel_page_TweetOldPost #TB_title {
+    height: 15px;
+    border-radius: 3px 3px 0 0;
+    border: none;
+    background: none;
+}
+
+.toplevel_page_TweetOldPost #TB_ajaxContent {
+	padding-bottom: 0;
+}
+
+.cwp_delete_table h3 {
+	text-align: left;
+	color: #308CC5;
+}
+
+.toplevel_page_TweetOldPost #TB_closeWindowButton:hover .tb-close-icon,
+.toplevel_page_TweetOldPost #TB_closeWindowButton:focus .tb-close-icon {
+	color: #F16848;
+	outline: none;
+}
+
+.toplevel_page_TweetOldPost .tb-close-icon {
+	color: #F16848;
+}
+
+.toplevel_page_TweetOldPost .tb-close-icon:hover {
+	color: #F16848;
+	opacity: 0.8;
+}
