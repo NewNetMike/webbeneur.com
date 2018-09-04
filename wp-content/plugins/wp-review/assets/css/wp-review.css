@@ -472,11 +472,11 @@ form.wp-review-comment-form > div, #commentform.wp-review-comment-form > div {
  */
 @font-face {
   font-family: 'font-icons';
-  src: url('/webbeneur.com/wp-content/plugins/wp-review/assets/fonts/font-icons.eot');
-  src: url('/webbeneur.com/wp-content/plugins/wp-review/assets/fonts/font-icons.eot') format('embedded-opentype'),
-       url('/webbeneur.com/wp-content/plugins/wp-review/assets/fonts/font-icons.woff') format('woff'),
-       url('/webbeneur.com/wp-content/plugins/wp-review/assets/fonts/font-icons.ttf') format('truetype'),
-       url('/webbeneur.com/wp-content/plugins/wp-review/assets/fonts/font-icons.svg') format('svg');
+  src: url('/oof/wp-content/plugins/wp-review/assets/fonts/font-icons.eot');
+  src: url('/oof/wp-content/plugins/wp-review/assets/fonts/font-icons.eot') format('embedded-opentype'),
+       url('/oof/wp-content/plugins/wp-review/assets/fonts/font-icons.woff') format('woff'),
+       url('/oof/wp-content/plugins/wp-review/assets/fonts/font-icons.ttf') format('truetype'),
+       url('/oof/wp-content/plugins/wp-review/assets/fonts/font-icons.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }

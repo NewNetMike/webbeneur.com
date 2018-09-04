@@ -256,9 +256,9 @@ a.btn_white { color: #4F4F4F!important }
     color: #888;
     text-shadow: 1px 1px 1px #FFF;
     padding-left: 20px;
-    background: url("/webbeneur.com/wp-content/plugins/wp-shortcode/images/toggle-down.png") no-repeat left;
+    background: url("/oof/wp-content/plugins/wp-shortcode/images/toggle-down.png") no-repeat left;
 }
-.toggle .toggleta span { background: url("/webbeneur.com/wp-content/plugins/wp-shortcode/images/toggle-up.png") no-repeat left }
+.toggle .toggleta span { background: url("/oof/wp-content/plugins/wp-shortcode/images/toggle-up.png") no-repeat left }
 .toggle .togglec {
     display: block;
     position: relative;
